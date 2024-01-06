@@ -1,4 +1,11 @@
-CONFIG_LOCALVERSION="-Mi680/Fog"
+CONFIG_LOCALVERSION="-fog-kribo-[0.1.0]"
+#################################################
+# disable kprobe and KSU optional
+CONFIG_KSU=n
+CONFIG_KPROBES=n
+CONFIG_HAVE_KPROBES=n
+CONFIG_KPROBE_EVENTS=n
+#################################################
 CONFIG_AUDIT=y
 # CONFIG_AUDITSYSCALL is not set
 CONFIG_NO_HZ=y
