@@ -1,4 +1,4 @@
-CONFIG_LOCALVERSION="-fog-kribo-[0.1.1]"
+CONFIG_LOCALVERSION="-fog-kribo-simple-[0.1.1]"
 #################################################
 # CONFIG INTERNET
 CONFIG_TCP_CONG_BBR=y
