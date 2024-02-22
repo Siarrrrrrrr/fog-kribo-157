@@ -10,6 +10,7 @@ CONFIG_NET_SCH_FQ=y
 CONFIG_NET_SCH_DEFAULT=y
 CONFIG_DEFAULT_FQ_CODEL=y
 CONFIG_DEFAULT_NET_SCH="fq_codel"
+CONFIG_WIREGUARD=y
 #################################################
 # efficient
 CONFIG_PM=y
