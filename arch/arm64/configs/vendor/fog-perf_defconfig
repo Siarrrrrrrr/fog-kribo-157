@@ -1,5 +1,16 @@
 CONFIG_LOCALVERSION="-fog-kribo-[0.1.0]"
 #################################################
+# CONFIG INTERNET
+CONFIG_TCP_CONG_BBR=y
+CONFIG_TCP_CONG_BBRPLUS=y
+CONFIG_DEFAULT_BBRPLUS=y
+CONFIG_DEFAULT_TCP_CONG="bbrplus"
+CONFIG_NET_SCH_FQ_CODEL=y
+CONFIG_NET_SCH_FQ=y
+CONFIG_NET_SCH_DEFAULT=y
+CONFIG_DEFAULT_FQ_CODEL=y
+CONFIG_DEFAULT_NET_SCH="fq_codel"
+#################################################
 # efficient
 CONFIG_PM=y
 CONFIG_WQ_POWER_EFFICIENT_DEFAULT=y
