@@ -1,5 +1,6 @@
 CONFIG_LOCALVERSION="-fog-kribo-simple-[0.2.2]"
 #################################################
+# CONFIG SCHED BORE 4.2.4
 CONFIG_SCHED_BORE=y
 #################################################
 # CONFIG INTERNET
