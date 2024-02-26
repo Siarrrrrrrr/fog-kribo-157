@@ -1,4 +1,4 @@
-CONFIG_LOCALVERSION="-fog-kribo-simple-[0.2.1]"
+CONFIG_LOCALVERSION="-fog-kribo-simple-[0.2.2]"
 #################################################
 CONFIG_SCHED_BORE=y
 #################################################
