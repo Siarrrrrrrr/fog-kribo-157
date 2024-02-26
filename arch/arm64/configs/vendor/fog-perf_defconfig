@@ -1,5 +1,8 @@
 CONFIG_LOCALVERSION="-fog-kribo-simple-[0.1.2]"
 #################################################
+# CONFIG CASS 
+CONFIG_SCHED_CASS=y
+#################################################
 # CONFIG INTERNET
 CONFIG_TCP_CONG_BBR=y
 CONFIG_TCP_CONG_BBRPLUS=y
