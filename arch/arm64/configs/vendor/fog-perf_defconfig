@@ -1,5 +1,8 @@
 CONFIG_LOCALVERSION="-fog-kribo-simple-[0.2.5]"
 #################################################
+# config wakelock block
+CONFIG_BOEFFLA_WL_BLOCKER=y
+#################################################
 # CONFIG SCHED BORE 4.2.4
 CONFIG_SCHED_BORE=y
 #################################################
