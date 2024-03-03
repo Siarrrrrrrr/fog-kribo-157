@@ -1,4 +1,4 @@
-CONFIG_LOCALVERSION="-fog-kribo-simple-[0.2.5]"
+CONFIG_LOCALVERSION="-fog-kribo-simple-[0.3.0]"
 #################################################
 # config sblance lets try to balancing 2-2 core CPU for this
 CONFIG_IRQ_SBALANCE=y
