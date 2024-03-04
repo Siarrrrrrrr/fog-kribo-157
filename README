@@ -1,4 +1,4 @@
-Fog-Kribo-Simple-[0.2.5]
+Fog-Kribo-Simple-[0.3.1]
 
 Im Using azure clang
 
@@ -10,19 +10,19 @@ If u want use KSU, CHange CONFIG_KSU=y first then use this
 
 curl -LSs "https://raw.githubusercontent.com/tiann/KernelSU/main/kernel/setup.sh" | bash -
 
+or
+
+curl -LSs "https://raw.githubusercontent.com/tiann/KernelSU/main/kernel/setup.sh" | bash -s main
+
 Then COmpile it 
 
 for Script Compile u can use this one 
 
 https://telegra.ph/Script-COmpile-Fog-Simple-02-22
 
-If u want to download my kernel u can use this one then found anything kernel version what u need
+If u want to download my kernel u can use this one then found anything kernel version what u need and u can read changelog and feature at my telegram channel
 
 https://t.me/MrKriboChannel
-
-For Changelog and feature u can read at this 
-
-https://telegra.ph/Fog-Kribo-Nyaa-022-02-13-2
 
 
 
