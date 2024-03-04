@@ -2,7 +2,7 @@ Fog-Kribo-Simple-[0.3.1]
 
 Im Using azure clang
 
-https://gitlab.com/Panchajanya1999/azure-clang
+git clone https://gitlab.com/Panchajanya1999/azure-clang --depth=1
 
 If u dont want use KSU just compile it 
 
