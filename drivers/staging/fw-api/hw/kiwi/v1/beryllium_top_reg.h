@@ -1,6 +1,5 @@
 
 /*
-<<<<<<<< HEAD:drivers/staging/fw-api/hw/kiwi/v1/beryllium_top_reg.h
  * Copyright (c) 2021 Qualcomm Innovation Center, Inc. All rights reserved.
 ========
  * Copyright (c) 2013-2015 The Linux Foundation. All rights reserved.
@@ -20,8 +19,6 @@
  * TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
  * PERFORMANCE OF THIS SOFTWARE.
  */
-
-// <<<<<<<< HEAD:drivers/staging/fw-api/hw/kiwi/v1/beryllium_top_reg.h
 
 #ifndef BERYLLIUM_TOP_REG_H
 #define BERYLLIUM_TOP_REG_H
