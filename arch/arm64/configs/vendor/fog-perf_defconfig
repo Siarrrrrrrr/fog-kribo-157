@@ -1,4 +1,4 @@
-CONFIG_LOCALVERSION="-fog-kribo-simple-[0.4.0]"
+CONFIG_LOCALVERSION="-fog-kribo-simple-[0.4.1]"
 #################################################
 # mark upstream after compile to see the error
 # last upstream 4.19.175
